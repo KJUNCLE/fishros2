@@ -1,0 +1,6 @@
+/home/li/0Kingston/ROS2/chapter2/chapter2_ws/CMakeFiles/ros2_cpp_node.dir
+/home/li/0Kingston/ROS2/chapter2/chapter2_ws/CMakeFiles/uninstall.dir
+/home/li/0Kingston/ROS2/chapter2/chapter2_ws/CMakeFiles/ros2_cpp_uninstall.dir
+/home/li/0Kingston/ROS2/chapter2/chapter2_ws/CMakeFiles/test.dir
+/home/li/0Kingston/ROS2/chapter2/chapter2_ws/CMakeFiles/edit_cache.dir
+/home/li/0Kingston/ROS2/chapter2/chapter2_ws/CMakeFiles/rebuild_cache.dir
