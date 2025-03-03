@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<robot name="first_robot">
+    <!--XML 注释-->
+    <link name="base_link"></link>
+</robot>
